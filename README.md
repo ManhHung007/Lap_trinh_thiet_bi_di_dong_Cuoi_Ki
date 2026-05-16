@@ -65,4 +65,4 @@ trong Terminal để dừng server.
 <img width="631" height="937" alt="image" src="https://github.com/user-attachments/assets/8e597e9c-40be-4cf8-bb24-d28ba5016589" />
 
 #Demo Vid:
-https://drive.google.com/file/d/1-WZwGRAO3sDwfZOqdZL1XI-RlDSxO4_V/view?usp=sharing
+[https://drive.google.com/file/d/1-WZwGRAO3sDwfZOqdZL1XI-RlDSxO4_V/view?usp=sharing](https://drive.google.com/file/d/1IY73cNzx7Hrt4efCzm7xPYhchMjrtygB/view)
